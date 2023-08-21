@@ -5,7 +5,7 @@ The repository contains the python file time converter which converts time from 
 The file by the name positive contains code thats indicates whether two of three numbers input by the user are even number and returns true or false.
 
 
-#Usage
+# Usage
 To use this solutions:
 1. Fork the repositiry to your github
 2. Clone the repositiry to your local machine
